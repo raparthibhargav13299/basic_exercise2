@@ -1,0 +1,120 @@
+
+.container{
+   
+    text-align: center;
+    
+     border: 1px solid black;
+     margin: 100px;
+     font-size: 18pt;
+    font-family: Monotype Corsiva;
+
+   
+}
+h3{
+    text-align: left;
+    
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+  color: gray;
+  text-align: left;
+}
+/* footer{
+    text-align: center;
+  padding: 20px;
+  
+  background-color: blue;
+  color: white;
+  margin: 100px;
+  width: 83.4%;
+} */
+p{
+  text-align: left;
+  font-family: initial;
+}
+h4{
+  text-align: center;
+}
+h2{
+
+  text-align: left;
+  color: green;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+.footer{
+  position: absolute;
+  padding: 20px;
+   margin-left: 100px;
+   margin-right: 100px;
+  /* left: 100px;
+  right: 100px; */
+  bottom: 10px;
+  width: 83.2%;
+  height: 30px;
+  background-color:blue;
+  color: white;
+  text-align: center;
+}
+
+.foot{
+  position: absolute;
+  padding: 20px;
+   margin-left: 100px;
+   margin-right: 100px;
+  /* left: 100px;
+  right: 100px; */
+  bottom: 10px;
+  width: 83.2%;
+  height: 40px;
+  background-color:blue;
+  color: white;
+  text-align: center;
+}
+
+
+
+
+.foo{
+  position: absolute;
+  padding: 20px;
+   margin-left: 100px;
+   margin-right: 100px;
+  /* left: 100px;
+  right: 100px; */
+  bottom: 10px;
+  width: 83.4%;
+  height: 57px;
+  background-color:blue;
+  color: white;
+  text-align: center;
+}
+
+
+/* footer{
+  position: fixed;
+  padding: 20px;
+  margin: 100px; 
+  width: 83.4%;
+  background-color:blue;
+  color: white;
+  text-align: center;
+} */
+/* .footer {
+  position: fixed;
+  bottom: 0;
+  width: 86.5%;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  margin-left: 100px;
+  } */
